@@ -12,4 +12,3 @@ elif imc <= 25:
     print("Tu peso es normal")
 else:
     print("Por encima de lo normal")
-    # TODO: write code...
