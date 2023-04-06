@@ -29,12 +29,13 @@ Si deseas contribuir a este proyecto, puedes hacer lo siguiente:
 - Crear un **issue** para reportar algún error o sugerir una mejora.
 - Crear un **pull request** para agregar una nueva funcionalidad o corregir un error.
 
-## 📄 Licencia
+## 📧 Contacto
 
-Este proyecto se encuentra bajo la Licencia MIT. Puedes leer el archivo `LICENSE` para más detalles.
+Si tienes alguna pregunta o comentario, no dudes en contactarme por correo electrónico a: [carlosorba31@gmail.com](mailto:carlosorba31@gmail.com).
 
 ---
 
 <div align="center">
   <p>¡Gracias por utilizar la calculadora del IMC! Si tienes alguna duda o comentario, no dudes en contactarme.</p>
+  <p> Hecho por Carlos Organero Barranco. <p>
 </div>
